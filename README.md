@@ -13,5 +13,7 @@ Based loosely on code from the Retro iPod Spotify Project, but intended as an al
 
 ## Pages being used for hardware/software reference:
 https://www.shogan.co.uk/builds/spotipod-spotify-streaming-device-from-an-ipod-classic/
+
 https://rsflightronics.com/spotifypod
+
 https://github.com/dupontgu/retro-ipod-spotify-client
