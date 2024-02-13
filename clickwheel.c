@@ -1,3 +1,5 @@
+// Taken from https://github.com/dupontgu/retro-ipod-spotify-client
+
 // To compile on the pi (after installing pigpio):
 // gcc -Wall -pthread -o click click.c -lpigpio -lrt
 
