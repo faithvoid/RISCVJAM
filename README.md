@@ -4,12 +4,14 @@ Experimental Python-based RISC-V MP3 player concept using a Milk-V Duo (64MB ide
 Based loosely on code from the Retro iPod Spotify Project, but intended as an always-offline music player.
 
 ## Hardware:
-- Milk-V Duo 256MB
-- 2" display (either composite or SPI)
-- MicroSD card (2GB or higher recommended) + microSD extender
-- iPod case + functioning clipwheel
-- 8-pin FPC cable breakout board (for clickwheel)
-- Battery or power source of some type.
+- Milk-V Duo 256MB - $15
+- 2" display (either composite or SPI) - $15-$25
+- MicroSD card (2GB or higher recommended) + microSD extender - $5-$15
+- iPod case + functioning clipwheel (N/A)
+- 8-pin FPC cable breakout board (for clickwheel) ($10)
+- Battery or power source of some type. (TBD)
+
+- Total cost: $60-$70(?)-ish
 
 ## Pages being used for hardware/software reference:
 https://www.shogan.co.uk/builds/spotipod-spotify-streaming-device-from-an-ipod-classic/
