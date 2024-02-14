@@ -4,7 +4,7 @@ Experimental Python-based RISC-V MP3 player concept using a Milk-V Duo (64MB ide
 Based loosely on code from the Retro iPod Spotify Project, but intended as an always-offline music player.
 
 ## Hardware:
-- Milk-V Duo 256MB - $15
+- Milk-V Duo 256MB / LuckFox Pico Max - $15
 - 2" display (either composite or SPI) - $15-$25
 - MicroSD card (2GB or higher recommended) + microSD extender - $5-$15
 - iPod case + functioning clipwheel (N/A)
